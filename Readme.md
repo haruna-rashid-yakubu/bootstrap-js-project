@@ -4,3 +4,4 @@
 Notre site web contient les element suivants: 
 </p>
 - Une navbar responsive
+- Une banner section qui donne la description de nos produits 
